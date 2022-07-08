@@ -12,6 +12,7 @@
 * Runtime: Implement Gc.finalise_last
 * Runtime: Implement buffer for in_channels
 * Lib: wheel event binding
+* Node: add bindings for unix_opendir, unix_readdir, unix_closedir, win_findfirst, win_findnext, win_findclose
 
 ## Bug fixes
 * Compiler: fix rewriter bug in share_constant (fix #1247)
